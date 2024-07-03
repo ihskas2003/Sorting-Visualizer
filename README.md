@@ -27,6 +27,7 @@ Sample 1 (Insertion Sort)
 
 
 Sample 2 (Merge Sort)
-![Uploading example2.gif…]()
+![example2](https://github.com/ihskas2003/Sorting-Visualizer/assets/154657336/1e1af7d4-2f8d-4190-b65f-13310ffc55c2)
+
 
 
